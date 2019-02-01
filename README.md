@@ -11,7 +11,7 @@ This demostrates how to recover a 3D skeleton for the robotic path from a 2D int
 ## Folder 'function':
 It includes all the codes written for the deformable registration between 2D and 3D skeleton.
 * Please kindly read the license in each file.
-* For any academic publication using the codes in this folder, please kindly cite:
+* For any academic publication using the codes in this folder, please kindly cite:<br />
   J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "3D Path Planning from a Single 2D Fluoroscopic Image for Robot Assisted Fenestrated   Endovascular Aortic Repair", IEEE International Conference on Robotics and Automation (ICRA), 2019.
 
 ## Folder 'data':
