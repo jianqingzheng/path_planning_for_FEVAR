@@ -24,10 +24,10 @@
 %   'idx_inline_3D'	- the indices of assigned inline 3D skeleton nodes
 %   'match_matrix'  - the soft-assigning matrix between 2D and 3D nodes
 %   'time_cost'     - the time consumption for intra-operative computation
-%   'points2D'      - the 2D skeleton points' coordinates
-%   'points3D'      - the 3D skeleton points' coordinates
-%   'R_rigid'       - the rotation matrix for rigid transformation
-%   'T_rigid'       - the translation vector for rigid transformation
+%   'points2D'      - the 2D skeleton points' coordinates (2D x node num)
+%   'points3D'      - the 3D skeleton points' coordinates (3D x node num)
+%   'R_rigid'       - the rotation matrix for rigid transformation (3x3)
+%   'T_rigid'       - the translation vector for rigid transformation (3x1)
 %   'branch_numb'   - the number of the longest branch to preserve
 %--------------------------------------------------------------------------
 %   See also: 'node_classification', 'branch_classify',
