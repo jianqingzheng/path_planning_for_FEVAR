@@ -6,7 +6,7 @@
 %   $ This code is under Apache License, Version 2.0, January 2004
 %   $ http://www.apache.org/licenses/LICENSE-2.0.
 %   For any academic publication using this code, please kindly cite:
-%     J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "3D Path Planning
+%     J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "Towards 3D Path Planning
 %     from a Single 2D Fluoroscopic Image for Robot Assisted Fenestrated
 %     Endovascular Aortic Repair", IEEE International Conference on
 %     Robotics and Automation (ICRA), 2019.
