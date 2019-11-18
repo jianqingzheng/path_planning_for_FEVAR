@@ -13,7 +13,7 @@
    limitations under the License.
 -------------------------------------------------------------------------------
 
-3D Path planning from a single fluorosocopic image for robot assisted fenestrated endovascular aortic repair
+Towards 3D Path planning from a single fluorosocopic image for robot assisted fenestrated endovascular aortic repair
 
 
 Requirement:
