@@ -1,11 +1,12 @@
 # Path_planning_for_FEVAR
 3D path planning via deformable registration of abdominal aortic aneurysm for robot-assisted fenestrated endovascular repair
 
-*Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair]([https://doi.org/10.1038/s41422-022-00727-6](https://ieeexplore.ieee.org/abstract/document/8793918))
+*Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair]([https://doi.org/10.1038/s41422-022-00727-6](https://ieeexplore.ieee.org/abstract/document/8793918))*
 
 ![header](imgs/demo-recover.gif)
-
+* 3D abdominal aorta shape and the center line recovered from one 2D X-ray image *
 ![header](imgs/demo-visual.gif)
+* how it looks like when a catheter move through the recovered center line of aorta *
 
 ## Requirement
 <b>Version</b>: Matlab R2016a to R2017a<br />
