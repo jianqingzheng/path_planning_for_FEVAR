@@ -1,5 +1,5 @@
 # Path_planning_for_FEVAR
-Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair]([https://doi.org/10.1038/s41422-022-00727-6](https://ieeexplore.ieee.org/abstract/document/8793918))
+Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair](https://ieeexplore.ieee.org/abstract/document/8793918)
 
 * 3D abdominal aorta shape and the center line recovered from one 2D X-ray image
 ![header](imgs/demo-recover.gif)
