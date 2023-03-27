@@ -1,5 +1,5 @@
 # Path_planning_for_FEVAR
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-blue)](https://ieeexplore.ieee.org/abstract/document/8793918/)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
 [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
 
 Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair](https://ieeexplore.ieee.org/abstract/document/8793918)
@@ -12,6 +12,7 @@ Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot
 
 
 ## Requirement
+
 <b>Version</b>: Matlab R2016a to R2017a<br />
 <b>Platform</b>: Windows, Linux
 
