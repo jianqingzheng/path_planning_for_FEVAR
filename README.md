@@ -12,9 +12,9 @@ Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot
 
 
 ## Requirement
+[![OS-WIN](https://img.shields.io/badge/OS-Windows%7CLinux-darkblue)]()
+[![Matlab](https://img.shields.io/badge/Matlab-R2016a%7CR2017a-blue)](https://www.mathworks.com/products/matlab.html)
 
-<b>Version</b>: Matlab R2016a to R2017a<br />
-<b>Platform</b>: Windows, Linux
 
 ## Script 'demo_2D3Dregist.m':
 This demostrates how to recover a 3D skeleton for the robotic path from a 2D intra-operative segmented aneurysm shape and a 3D pre-operative skeleton.It will import a 2D jpg image of pre-operative fluoroscopy, a 2D segmentation label, and a 3D skeleton. It will display the time cost for registration of 2D/3D skeletons, the intra-operative (ground truth) skeleton, pre-operative skeleton and our prediction, as well as the evaluated distance errors in 2D and 3D.
