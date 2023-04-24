@@ -17,7 +17,7 @@ Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot
 
 ## Usage
 ```
-[$DOWNLOAD_DIR]/XBCR-net/           
+$DOWNLOAD_DIR/
 ├── data/
 |   ├── IMG26.JPG
 |   ├── Label_save_P26.mat
@@ -38,7 +38,7 @@ Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot
 |   ├── regist2D3D.m/
 |   ├── regist_energy.m/
 |   ├── trunk_node_assign.m/
-├── [demo_2D3Dregist.m](Script 'demo_2D3Dregist.m':)
+├── [demo_2D3Dregist.m](#Script 'demo_2D3Dregist.m':)
 ```
 
 ### Script 'demo_2D3Dregist.m':
