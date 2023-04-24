@@ -38,9 +38,9 @@ $DOWNLOAD_DIR/
 |   ├── regist2D3D.m/
 |   ├── regist_energy.m/
 |   ├── trunk_node_assign.m/
-├── [demo_2D3Dregist.m](#Script 'demo_2D3Dregist.m':)
+├── [demo_2D3Dregist.m](#script-demo_2d3dregistm)
 ```
-[demo_2D3Dregist.m](#Scriptdemo_2D3Dregistm)
+[demo_2D3Dregist.m](#script-demo_2d3dregistm)
 
 ### Script 'demo_2D3Dregist.m':
 This demostrates how to recover a 3D skeleton for the robotic path from a 2D intra-operative segmented aneurysm shape and a 3D pre-operative skeleton.It will import a 2D jpg image of pre-operative fluoroscopy, a 2D segmentation label, and a 3D skeleton. It will display the time cost for registration of 2D/3D skeletons, the intra-operative (ground truth) skeleton, pre-operative skeleton and our prediction, as well as the evaluated distance errors in 2D and 3D.
