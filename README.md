@@ -66,6 +66,7 @@ It includes redistributed codes used in the demonstration.
   booktitle={2019 International Conference on Robotics and Automation (ICRA)},
   pages={8747--8753},
   year={2019},
-  organization={IEEE}
+  organization={IEEE},
+  doi={10.1109/ICRA.2019.8793918},
 }
 ```
