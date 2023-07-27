@@ -58,7 +58,7 @@ It includes redistributed codes used in the demonstration.
 
 ## For the citation
 * For any academic publication using the codes in this folder, please kindly cite:<br />
-  J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "3D Path Planning from a Single 2D Fluoroscopic Image for Robot Assisted Fenestrated   Endovascular Aortic Repair", IEEE International Conference on Robotics and Automation (ICRA), 2019.
+  J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair", IEEE International Conference on Robotics and Automation (ICRA), 2019.
 ```bibtex
 @inproceedings{zheng2019towards,
   title={Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair},
