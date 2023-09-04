@@ -9,9 +9,10 @@ Code for *ICRA'2020* paper [Towards 3d path planning from a single 2d fluoroscop
 - [0. Brief Introduction](#0-brief-intro)
 - [1. Installation](#1-requirement)
 - [2. Usage](#2-usage)
-  - [2.1. Training (optional)](#21-training-optional)
-  - [2.2a. Inference by entering data](#22a-inference-by-entering-data)
-  - [2.2b. Batch Inference](#22b-batch-inference)
+  - [2.1. Script 'demo_2D3Dregist.m'](#21-script-demo_2d3dregistm)
+  - [2.2. Folder 'function'](#22-folder-function)
+  - [2.3. Folder 'data'](#23-folder-data)
+  - [2.4. Folder 'external'](#24-folder-external)
 - [3. Citing this work](#3-citing-this-work)
 
 ---
@@ -20,7 +21,7 @@ Code for *ICRA'2020* paper [Towards 3d path planning from a single 2d fluoroscop
 * 3D abdominal aorta shape and the center line recovered from one 2D X-ray image
 ![header](imgs/demo-recover.gif)
 
-* how it looks like when a catheter move through the recovered center line of aorta
+* How it looks like when a catheter move through the recovered center line of aorta
 ![header](imgs/demo-visual.gif)
 
 ---
@@ -76,7 +77,7 @@ It includes the imported data used in the demonstration.
 It includes redistributed codes used in the demonstration.
 * Please kindly read the license in each file.
 
-## 3. For the citation
+## 3. Citing this work
 For any academic publication using the codes in this folder, please kindly cite:
 - J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair", IEEE International Conference on Robotics and Automation (ICRA), 2019.
 ```bibtex
