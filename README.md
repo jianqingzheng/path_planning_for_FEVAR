@@ -1,5 +1,6 @@
 # Path_planning_for_FEVAR
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
+|
 [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
 
 Code for [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair](https://ieeexplore.ieee.org/abstract/document/8793918)
@@ -22,11 +23,11 @@ $DOWNLOAD_DIR/
 |   ├── IMG26.JPG
 |   ├── Label_save_P26.mat
 |   ├── Skeleton3D_P26.mat
-|   ├── ...
+|   └── ...
 ├── external/
 |   ├── TPS3D/
 |   ├── distance2curve/
-|   ├── phi-max-skeleton3d-matlab-a98ad07/
+|   └── phi-max-skeleton3d-matlab-a98ad07/
 ├── function/
 |   ├── array2str.m
 |   ├── branch_classify.m
@@ -37,22 +38,22 @@ $DOWNLOAD_DIR/
 |   ├── project3D22D.m
 |   ├── regist2D3D.m
 |   ├── regist_energy.m
-|   ├── trunk_node_assign.m
-├── demo_2D3Dregist.m
+|   └── trunk_node_assign.m
+└── demo_2D3Dregist.m
 ```
 
 
-### Script 'demo_2D3Dregist.m':
+### Script 'demo_2D3Dregist.m': ###
 This demostrates how to recover a 3D skeleton for the robotic path from a 2D intra-operative segmented aneurysm shape and a 3D pre-operative skeleton.It will import a 2D jpg image of pre-operative fluoroscopy, a 2D segmentation label, and a 3D skeleton. It will display the time cost for registration of 2D/3D skeletons, the intra-operative (ground truth) skeleton, pre-operative skeleton and our prediction, as well as the evaluated distance errors in 2D and 3D.
 
-### Folder 'function':
+### Folder 'function': ###
 It includes all the codes written for the deformable registration between 2D and 3D skeleton.
 * Please kindly read the license in each file.
 
-### Folder 'data':
+### Folder 'data': ###
 It includes the imported data used in demonstration.
 
-### Folder 'external':
+### Folder 'external': ###
 It includes redistributed codes used in the demonstration.
 * Please kindly read the license in each file.
 
