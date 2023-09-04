@@ -7,7 +7,7 @@ Code for *ICRA'2020* paper [Towards 3d path planning from a single 2d fluoroscop
 
 ### Contents ###
 - [0. Brief Introduction](#0-brief-intro)
-- [1. Installation](#1-requirement)
+- [1. Requirement](#1-requirement)
 - [2. Usage](#2-usage)
   - [2.1. Script 'demo_2D3Dregist.m'](#21-script-demo_2d3dregistm)
   - [2.2. Folder 'function'](#22-folder-function)
