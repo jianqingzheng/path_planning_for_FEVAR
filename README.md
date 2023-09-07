@@ -21,6 +21,11 @@ Code for *ICRA'2020* paper [Towards 3d path planning from a single 2d fluoroscop
 
 ---
 ## 0. Brief Intro ##
+* segmentation of abdominal aorta from a CT scan
+![header](imgs/aorta_seg.gif)
+
+> The segmentation process is implemented following this work: [Abdominal Aortic Aneurysm Segmentation
+with a Small Number of Training Subjects](https://arxiv.org/pdf/1804.02943.pdf)
 
 * 3D abdominal aorta shape and the center line recovered from one 2D X-ray image
 ![header](imgs/demo-recover.gif)
@@ -72,7 +77,7 @@ This demonstrates how to recover a 3D skeleton for the robotic path from a 2D in
 ### 2.2. Folder 'function': ###
 
 It includes all the codes written for the deformable registration between 2D and 3D skeletons.
-* Please kindly read the license in each file.
+> Please kindly read the license in each file.
 
 ### 2.3. Folder 'data': ###
 
@@ -81,7 +86,7 @@ It includes the imported data used in the demonstration.
 ### 2.4. Folder 'external': ###
 
 It includes redistributed codes used in the demonstration.
-* Please kindly read the license in each file.
+> Please kindly read the license in each file.
 
 ## 3. Citing this work
 For any academic publication using the codes in this folder, please kindly cite:
@@ -95,5 +100,15 @@ For any academic publication using the codes in this folder, please kindly cite:
   year={2019},
   organization={IEEE},
   doi={10.1109/ICRA.2019.8793918},
+}
+```
+and, if applicable, the aorta segmentation work:
+- J. Q. Zheng, X. Y. Zhou, Q. B. Li, C. Riga and G. Z. Yang, "Abdominal aortic aneurysm segmentation with a small number of training subjects." arXiv preprint arXiv:1804.02943.
+```bibtex
+@article{zheng2018abdominal,
+  title={Abdominal aortic aneurysm segmentation with a small number of training subjects},
+  author={Zheng, Jian-Qing and Zhou, Xiao-Yun and Li, Qing-Biao and Riga, Celia and Yang, Guang-Zhong},
+  journal={arXiv preprint arXiv:1804.02943},
+  year={2018}
 }
 ```
