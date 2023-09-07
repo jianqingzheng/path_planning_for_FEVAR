@@ -21,17 +21,18 @@ Code for *ICRA'2020* paper [Towards 3d path planning from a single 2d fluoroscop
 
 ---
 ## 0. Brief Intro ##
-* The segmented shape of the abdominal aorta from a CT scan
+* The segmented shape of the abdominal aorta from a CT scan:
 
 <div align="center">
 
 ![header](imgs/aorta_seg.gif)
 
 </div>
+
 > The segmentation process is implemented following this work: [Abdominal Aortic Aneurysm Segmentation
 with a Small Number of Training Subjects](https://arxiv.org/pdf/1804.02943.pdf)
 
-* The 3D abdominal aorta shape and the center line recovered from one 2D X-ray image
+* The 3D abdominal aorta shape and the center line recovered from one 2D X-ray image:
 
 <div align="center">
 
@@ -39,7 +40,7 @@ with a Small Number of Training Subjects](https://arxiv.org/pdf/1804.02943.pdf)
 
 </div>
 
-* How it looks like when a catheter move through the recovered center line of aorta
+* How it looks like when a catheter moves through the recovered center line of the aorta:
 
 <div align="center">
   
