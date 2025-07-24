@@ -3,6 +3,8 @@
   
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
 [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
+<a href="https://zread.ai/jianqingzheng/path_planning_for_FEVAR"><img alt="User Manual" src="https://img.shields.io/website?url=https%3A%2F%2Fzread.ai%2Fjianqingzheng%2Fpath_planning_for_FEVAR%2F&up_message=online&up_color=darkgreen&down_message=offline&down_color=darkgray&label=User%20Manual"></a>
+
 </div>
 
 Code for *ICRA'2019* paper [Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair](https://ieeexplore.ieee.org/abstract/document/8793918)
@@ -17,7 +19,8 @@ Code for *ICRA'2019* paper [Towards 3d path planning from a single 2d fluoroscop
   - [2.2. Folder 'function'](#22-folder-function)
   - [2.3. Folder 'data'](#23-folder-data)
   - [2.4. Folder 'external'](#24-folder-external)
-- [3. Citing this work](#3-citing-this-work)
+- [3. Tutorial](#3-tutorial)
+- [4. Citing this work](#3-citing-this-work)
 
 ---
 ## 0. Brief Intro ##
@@ -103,7 +106,12 @@ It includes the imported data used in the demonstration.
 It includes redistributed codes used in the demonstration.
 > Please kindly read the license in each file.
 
-## 3. Citing this work
+---
+## 3. Tutorial ##
+A detailed tutorial can be found in the provided <a href="https://zread.ai/jianqingzheng/path_planning_for_FEVAR"><img alt="User Manual" src="https://img.shields.io/website?url=https%3A%2F%2Fzread.ai%2Fjianqingzheng%2Fpath_planning_for_FEVAR%2F&up_message=online&up_color=darkgreen&down_message=offline&down_color=darkgray&label=User%20Manual"></a> (powered by Zread.ai).
+
+---
+## 4. Citing this work ##
 For any academic publication using the codes in this folder, please kindly cite:
 - J. Q. Zheng, X. Y. Zhou, C. Riga and G. Z. Yang, "Towards 3d path planning from a single 2d fluoroscopic image for robot assisted fenestrated endovascular aortic repair", IEEE International Conference on Robotics and Automation (ICRA), 2019.
 ```bibtex
