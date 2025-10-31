@@ -3,7 +3,9 @@
   
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRA.2019.8793918-darkyellow)](https://ieeexplore.ieee.org/abstract/document/8793918/)
 [![arXiv](https://img.shields.io/badge/arXiv-1809.05955-b31b1b.svg)](https://arxiv.org/abs/1809.05955)
-<a href="https://zread.ai/jianqingzheng/path_planning_for_FEVAR"><img alt="User Manual" src="https://img.shields.io/website?url=https%3A%2F%2Fzread.ai%2Fjianqingzheng%2Fpath_planning_for_FEVAR%2F&up_message=online&up_color=darkgreen&down_message=offline&down_color=darkgray&label=User%20Manual"></a>
+<br />
+[![User_Manual](https://img.shields.io/badge/UserManual-zread.ai-darkgreen)](https://zread.ai/jianqingzheng/path_planning_for_FEVAR)
+[![User_Manual](https://img.shields.io/badge/UserManual-deepwiki-darkgreen)](https://deepwiki.com/jianqingzheng/path_planning_for_FEVAR)
 
 </div>
 
@@ -108,7 +110,9 @@ It includes redistributed codes used in the demonstration.
 
 ---
 ## 3. Tutorial ##
-A detailed tutorial can be found in the provided <a href="https://zread.ai/jianqingzheng/path_planning_for_FEVAR"><img alt="User Manual" src="https://img.shields.io/website?url=https%3A%2F%2Fzread.ai%2Fjianqingzheng%2Fpath_planning_for_FEVAR%2F&up_message=online&up_color=darkgreen&down_message=offline&down_color=darkgray&label=User%20Manual"></a> (powered by Zread.ai).
+
+Detailed tutorials can be found in the provided [![User_Manual](https://img.shields.io/badge/UserManual-zread.ai-darkgreen)](https://zread.ai/jianqingzheng/path_planning_for_FEVAR) (powered by Zread.ai) or [![User_Manual](https://img.shields.io/badge/UserManual-deepwiki-darkgreen)](https://deepwiki.com/jianqingzheng/path_planning_for_FEVAR) (powered by DeepWiki).
+
 
 ---
 ## 4. Citing this work ##
